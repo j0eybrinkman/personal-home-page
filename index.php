@@ -6,4 +6,6 @@ echo "<p>Today's luck number is " . rand() . "!</p>";
 
 echo "<p>Test auto-deploy</p>";
 
+echo "<p>test</p>";
+
 ?>
