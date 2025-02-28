@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/example/public_html/j0ey.life
+    - export DEPLOYPATH=/home/example/public_html/fresepaints.org
     - /bin/cp index.php $DEPLOYPATH
