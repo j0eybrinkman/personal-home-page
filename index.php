@@ -2,6 +2,8 @@
 
 echo "<h1>Today's lucky number is " . rand() . "!</h1>";
 
+echo $_SERVER['HTTP_USER_AGENT'] . '<p> is your web browser.';
+
 ?>
 
 <form method="post" action="#">
